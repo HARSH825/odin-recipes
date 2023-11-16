@@ -2,9 +2,32 @@ body{
    background-color: black;
    background-image: url(../images/backgroundindex.jpg);
    background-position: center;
-   background-size: contain;
+   background-size: cover;
    background-repeat: no-repeat;
-   opacity: 0.5;
+}
+   
+   .lists{
+    font-size: xx-large;
+    color:white;
+   }
+.heading{
+    color: aqua;
+    background-color: black;
+    opacity: 0.5;
+    font-weight: bolder;
+    
+}
 
-
+.r1,.r2,.r3{
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    width: 400px;
+    height: auto;
+}   
+a{
+    color: black;
+    
+   
 }
