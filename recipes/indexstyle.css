@@ -1,0 +1,10 @@
+body{
+   background-color: black;
+   background-image: url(../images/backgroundindex.jpg);
+   background-position: center;
+   background-size: contain;
+   background-repeat: no-repeat;
+   opacity: 0.5;
+
+
+}
