@@ -20,11 +20,15 @@ body{
 
 .r1,.r2,.r3{
     padding: 20px;
-    margin-bottom: 10px;
-    border: 1px solid black;
+    margin-bottom: 25px;
+    border: 4px outset black;
     box-sizing: border-box;
     width: 400px;
     height: auto;
+    border-radius: 20px;
+    background-image: linear-gradient(white,grey);
+    opacity: 0.8;
+    
 }   
 a{
     color: black;

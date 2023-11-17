@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to left,white,rgb(41, 2, 2));
+    color: white;
+}
+.imga{
+    height: auto;
+    width: 500px;
+}
+h3{
+    text-decoration:2px solid underline;
+}
+p{
+    background-image: linear-gradient(to right,brown,rgb(78, 53, 7));
+}
+h1{
+    text-decoration: 4px solid underline ;
+}
