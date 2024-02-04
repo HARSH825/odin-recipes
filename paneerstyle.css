@@ -1,14 +1,15 @@
-.imga{
-    height: auto;
-    width: 500px;
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-h3{
-    text-decoration:2px solid underline;
-}
-p{
-    background-image: linear-gradient(white,orange);
-}
+
 body{
-    background-image: linear-gradient(to right, white ,grey);
-    /* opacity: 0.; */
+    padding-left: 30px;
+}
+h1{
+    text-align: center;
+}
+.list{
+    margin-top: 5px;
 }

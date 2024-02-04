@@ -1,5 +1,11 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 body{
-    background-image: linear-gradient(to left,orange,lightgrey);
+    background-image: linear-gradient(lightgrey);
 }
 .imga{
     height: auto;
@@ -13,4 +19,6 @@ p{
 }
 h1{
     text-decoration: 4px solid underline ;
+    text-align: center;
 }
+

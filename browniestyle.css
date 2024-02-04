@@ -4,7 +4,7 @@ body{
 }
 .imga{
     height: auto;
-    width: 500px;
+    width: auto;
 }
 h3{
     text-decoration:2px solid underline;
